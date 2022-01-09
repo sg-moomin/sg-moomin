@@ -10,7 +10,9 @@ Hello~ I'm sg-moomin!😝
 <a href="https://blog.naver.com/romin_pic" target="_blank"><img src="https://img.shields.io/badge/Naver-43B02A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.bandlab.com/romin_pic" target="_blank"><img src="https://img.shields.io/badge/BandLab-F12C18?style=flat-square&logo=BandLab&logoColor=white"/></a>
 <br>
+<br>
 👇 sg-moomin Stats 👇
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=sg-moomin)
 ![sg-moomin's github stats](https://github-readme-stats.vercel.app/api?username=sg-moomin&show_icons=true)
 [![sg-moomin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-moomin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sg-moomin)
